@@ -1,2 +1,10 @@
-void main{
-}
+void main{ int a;
+   int b;
+   cout<<"輸入兩個數字:";
+   cin>>a;
+   cin>>b;
+   cout<<endl<<"你輸入的數字1為:"<<a<<endl;
+   cout<<endl<<"你輸入的數字2為:"<<b<<endl;
+   cout<<endl<<"兩數相加為:"<<a+b<<endl;
+
+
